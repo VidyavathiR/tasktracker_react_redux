@@ -40,4 +40,4 @@ npm start
 - Thunk Middleware
 - Bootstrap
 
-# Thank you for exploring Task Tracker! I'm excited to see how it can simplify task management for you. Happy coding! 🚀💻
+## Thank you for exploring Task Tracker! I'm excited to see how it can simplify task management for you. Happy coding! 🚀💻
