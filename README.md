@@ -34,10 +34,10 @@ npm start
 ```
 
 ## Technologies Used
-# React
-# Redux
-# JSON Server
-# Thunk Middleware
-# Bootstrap
+- React
+- Redux
+- JSON Server
+- Thunk Middleware
+- Bootstrap
 
 # Thank you for exploring Task Tracker! I'm excited to see how it can simplify task management for you. Happy coding! 🚀💻
