@@ -31,6 +31,7 @@ npm run server
 
 # Start the React application
 npm start
+'''bash
 
 ## Technologies Used
 # React
