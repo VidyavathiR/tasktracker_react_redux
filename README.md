@@ -16,7 +16,7 @@ Task Tracker is designed to help users manage their tasks efficiently. It levera
 
 ## Installation and Setup
 
-```
+```bash
 # Clone the repository
 git clone https://github.com/VidyavathiR/tasktracker_react_redux.git
 
@@ -31,6 +31,7 @@ npm run server
 
 # Start the React application
 npm start
+```
 
 ## Technologies Used
 # React
